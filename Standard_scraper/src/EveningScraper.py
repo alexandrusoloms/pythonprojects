@@ -94,6 +94,7 @@ with open('../src/evening_standard_id_link_dict.pickle', 'rb') as handle:
 for ID, partial_extension in list(master_dict.items()):
     try:
         data_dict = article_scraper('https://www.standard.co.uk' + partial_extension, ID)
-        save_output(ID, data_dict)
+        if data_dict:
+            save_output(ID, data_dict)
     except AttributeError:
         pass
