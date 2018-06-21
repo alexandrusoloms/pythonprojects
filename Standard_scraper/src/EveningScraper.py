@@ -71,9 +71,16 @@ def article_scraper(url, identifier):
             }
             return answer_dict
 
-def save_output(identifier, file_dict):
+def save_output(identifier, file_dict, checkfile=False):
 
     file_save_name = 'labeled_newspaper_articles.pickle'
+    if checkfile:
+        with open(output_path + file_save_name, 'rb') as handle:
+            existing_files = pickle.load(handle)
+        if identifier not in existing_files.keys():
+            return True
+        else:
+            return False
 
     if os.path.isfile(output_path + file_save_name):
         with open(output_path + file_save_name, 'rb') as handle:
@@ -93,8 +100,12 @@ with open('../src/evening_standard_id_link_dict.pickle', 'rb') as handle:
 
 for ID, partial_extension in list(master_dict.items()):
     try:
-        data_dict = article_scraper('https://www.standard.co.uk' + partial_extension, ID)
-        if data_dict:
-            save_output(ID, data_dict)
+        not_scraped = save_output(ID, {}, checkfile=True)
+        if not_scraped:
+            data_dict = article_scraper('https://www.standard.co.uk' + partial_extension, ID)
+            if data_dict:
+                save_output(ID, data_dict)
+        else:
+            pass
     except AttributeError:
         pass
