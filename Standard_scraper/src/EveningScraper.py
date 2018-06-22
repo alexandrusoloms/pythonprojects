@@ -26,7 +26,12 @@ def _random_sleep(minimum=3, maximum=10, sd=1):
 
 def make_request(url, method, **kwargs):
     """
-    <to add>
+    Request an article from The Evening Stardard
+    
+    :param url: the address to which the request is made
+    :param method: the HTTP method ('get', 'post')
+    :param **kwargs: any other arguments for the request builder
+    :return: the html code of the page as a bs4 element
     """
     if method == 'post':
         response = requests.post(url, **kwargs)
@@ -43,8 +48,13 @@ def make_request(url, method, **kwargs):
         return None
 
 def article_scraper(url, identifier):
-
-    soup = make_request(url=url, method='get', allow_redirects=False)
+    """
+    calls the request function and parses the response
+    :param url: the url of the article
+    :param identifier: the hash.md5 identifier created when collecting initial urls
+    :return: dicionary containing the data collected
+    """
+    soup = make_request(url=url, method='get', allow_redirects=False)  
     if soup:
         _random_sleep(
             minimum=1,
@@ -72,7 +82,11 @@ def article_scraper(url, identifier):
             return answer_dict
 
 def save_output(identifier, file_dict, checkfile=False):
-
+    """
+    save the output of the data scraped or if 'checkfile=True' it checks if the
+    file has already been collected and passes it.
+    
+    """
     file_save_name = 'labeled_newspaper_articles.pickle'
     if checkfile:
         with open(output_path + file_save_name, 'rb') as handle:
@@ -112,5 +126,6 @@ for ID, partial_extension in list(master_dict.items()):
         else:
             print('already_done')
             pass
-    except AttributeError:
+    except AttributeError as e:
+        print(e)
         pass
