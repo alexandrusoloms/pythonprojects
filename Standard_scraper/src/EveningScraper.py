@@ -106,6 +106,9 @@ for ID, partial_extension in list(master_dict.items()):
             data_dict = article_scraper('https://www.standard.co.uk' + partial_extension, ID)
             if data_dict:
                 save_output(ID, data_dict)
+                print('saved!')
+            else:
+                print('no data_dict...')
         else:
             print('already_done')
             pass
