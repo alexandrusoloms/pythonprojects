@@ -127,5 +127,5 @@ for ID, partial_extension in list(master_dict.items()):
             print('already_done')
             pass
     except AttributeError as e:
-        print(e)
+        save_output(ID, {})
         pass
