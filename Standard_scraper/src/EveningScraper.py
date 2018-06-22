@@ -2,6 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import pickle
+from random import shuffle
 import numpy as np
 import time
 
@@ -27,7 +28,7 @@ def _random_sleep(minimum=3, maximum=10, sd=1):
 def make_request(url, method, **kwargs):
     """
     Request an article from The Evening Stardard
-    
+
     :param url: the address to which the request is made
     :param method: the HTTP method ('get', 'post')
     :param **kwargs: any other arguments for the request builder
@@ -54,7 +55,7 @@ def article_scraper(url, identifier):
     :param identifier: the hash.md5 identifier created when collecting initial urls
     :return: dicionary containing the data collected
     """
-    soup = make_request(url=url, method='get', allow_redirects=False)  
+    soup = make_request(url=url, method='get', allow_redirects=False)
     if soup:
         _random_sleep(
             minimum=1,
@@ -85,7 +86,7 @@ def save_output(identifier, file_dict, checkfile=False):
     """
     save the output of the data scraped or if 'checkfile=True' it checks if the
     file has already been collected and passes it.
-    
+
     """
     file_save_name = 'labeled_newspaper_articles.pickle'
     if checkfile:
@@ -112,7 +113,10 @@ def save_output(identifier, file_dict, checkfile=False):
 with open('../src/evening_standard_id_link_dict.pickle', 'rb') as handle:
     master_dict = pickle.load(handle)
 
-for ID, partial_extension in list(master_dict.items()):
+dict_items = list(master_dict.items())
+shuffle(dict_items)
+
+for ID, partial_extension in dict_items:
     try:
         not_scraped = save_output(ID, {}, checkfile=True)
         if not_scraped:
