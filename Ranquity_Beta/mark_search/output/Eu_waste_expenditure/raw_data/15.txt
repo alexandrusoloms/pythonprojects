@@ -1,0 +1,37 @@
+http://community.eea.europa.eu/
+
+For the public:
+
+Ask your question 
+
+Press room 
+The EEA Web CMS works best with following browsers:Internet Explorer is not recommended for the CMS area.If you have forgotten your password, 
+we can send you a new one.
+Skip to content. |
+
+  Skip to navigation
+
+                There are no recent updates.
+            
+                There are no recent updates.
+            
+                There are no recent updates.
+            How to ask your questionSee Quick User Guide on how you can send your question(s) to us and how we manage your submitted data.Privacy statementSee Privacy statement for the EEA ForumIf you have complaints about maladministration of the EEA, you can contact the European Ombudsman.EEA is not responsible or liable for information on this site. Content does not necessarily reflect the official opinion of EEA or other European Communities bodies and institutions.
+                Engineered by:
+                EEA Web Team
+
+                
+                Template version:
+                EEA Plone KGS 18.6.23
+
+                
+                Template updated on
+                25 June 2018 17:07
+                from version 18.6.15
+
+
+
+
+Site usage
+Code for developers
+We use cookies to record some preference settings and to analyse how visitors use our web site. Cookies do not contain any personal information about you. If you wish, see how to delete/disable cookies in your web browser. See also our privacy policy.
