@@ -1,0 +1,859 @@
+http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52015DC0614
+
+			This document is an excerpt from the EUR-Lex website
+		
+EUROPEAN COMMISSIONBrussels, 2.12.2015COM(2015) 614 finalCOMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONSClosing the loop - An EU action plan for the Circular Economy
+Closing the loop – An EU action plan for the circular economy
+
+Introduction
+
+The transition to a more circular economy, where the value of products, materials and resources is maintained in the economy for as long as possible, and  the generation of waste minimised, is an essential contribution to the EU's efforts to develop a sustainable, low carbon, resource efficient and competitive economy. Such transition is the opportunity to transform our economy and generate new and sustainable competitive advantages for Europe. 
+
+The circular economy will boost the EU's competitiveness by protecting businesses against scarcity of resources and volatile prices, helping to create new business opportunities and innovative, more efficient ways of producing and consuming. It will create local jobs at all skills levels and opportunities for social integration and cohesion. At the same time, it will save energy and help avoid the irreversible damages caused by using up resources at a rate that exceeds the Earth's capacity to renew them in terms of climate and biodiversity, air, soil and water pollution. A recent report also points at the wider benefits of the circular economy
+1
+, including in lowering current carbon dioxide emissions levels. Action on the circular economy therefore ties in closely with key EU priorities, including jobs and growth, the investment agenda, climate and energy, the social agenda and industrial innovation, and with global efforts on sustainable development.  
+
+Economic actors, such as business and consumers, are key in driving this process. Local, regional and national authorities are enabling the transition, but the EU also has a fundamental role to play in supporting it. The aim is to ensure that the right regulatory framework is in place for the development of the circular economy in the single market, and to give clear signals to economic operators and society at large on the way forward with long term waste targets as well as a concrete, broad and ambitious set of actions, to be carried out before 2020. Action at EU level will drive investments and create a level playing field, remove obstacles stemming from European legislation or inadequate enforcement, deepen the single market, and ensure favourable conditions for innovation and the involvement of all stakeholders.
+
+The legislative proposals on waste, adopted together with this action plan, include long-term targets to reduce landfilling and to increase preparation for reuse and recycling of key waste streams such as municipal waste and packaging waste. The targets should lead Member States gradually to converge on bestpractice levels and encourage the requisite investment in waste management. Further measures are proposed to make implementation clear and simple, promote economic incentives and improve extended producer responsibility schemes. 
+
+By stimulating sustainable activity in key sectors and new business opportunities, the plan will help to unlock the growth and jobs potential of the circular economy. It includes comprehensive commitments on ecodesign, the development of strategic approaches on plastics and chemicals, a major initiative to fund innovative projects under the umbrella of the EU's Horizon 2020 research programme, and targeted action in areas such as plastics, food waste, construction, critical raw materials, industrial and mining waste, consumption and public procurement.  Other key legislative proposals on fertilisers and water reuse will follow.  Finally, horizontal enabling measures in areas such as innovation and investment are included to stimulate the transition to a circular economy. The proposed actions support the circular economy in each step of the value chain – from production to consumption, repair and remanufacturing, waste management, and secondary raw materials that are fed back into the economy. The actions proposed will be taken forward in line with Better Regulation principles, and subject to appropriate consultation and impact assessment.
+
+The action plan focusses on action at EU level with high added value. Making the circular economy a reality will however require long-term involvement at all levels, from Member States, regions and cities, to businesses and citizens. Member States are invited to play their full part in EU action, integrating and complementing it with national action. The circular economy will also need to develop globally. Increased policy coherence in internal and external EU action in this field will be mutually reinforcing and essential for the implementation of global commitments taken by the Union and by EU Member States, notably the U.N. 2030 Agenda for Sustainable Development and the G7 Alliance on Resource Efficiency. This action plan will be instrumental in reaching the Sustainable Development Goals (SDGs) by 2030, in particular Goal 12 of ensuring sustainable consumption and production patterns. 
+
+1.Production
+
+A circular economy starts at the very beginning of a product's life. Both the design phase and production processes have an impact on sourcing, resource use and waste generation throughout a product's life.  
+
+1.1.Product design
+
+Better design can make products more durable or easier to repair, upgrade or remanufacture. It can help recyclers to disassemble products in order to recover valuable materials and components. Overall, it can help to save precious resources. However, current market signals appear insufficient to make this happen, in particular because the interests of producers, users and recyclers are not aligned. It is therefore essential to provide incentives for improved product design, while preserving the single market and competition, and enabling innovation.
+
+Electrical and electronic products are particularly significant in this context. Their reparability can be important to consumers, and they can contain valuable materials that should be made easier to recycle (e.g. rare earth elements in electronic devices). In order to promote a better design of these products, the Commission will emphasise circular economy aspects in future product design requirements under the Ecodesign Directive
+2
+, the objective of which is to improve the efficiency and environmental performance of energy-related products. To date, ecodesign requirements have mainly targeted energy efficiency
+3
+; in the future, issues such as reparability, durability, upgradability, recyclability, or the identification of certain materials or substances will be systematically examined. The Commission will analyse these issues on a product by product basis in new working plans and reviews, taking into account the specificities and challenges of different products (such as innovation cycles) and in close cooperation with relevant stakeholders. 
+
+As a first step, and under the framework of the Ecodesign directive, the Commission has developed and will propose shortly to Member States mandatory product design and marking requirements to make it easier and safer to dismantle, reuse and recycle electronic displays (e.g. flat computer or television screens). 
+
+The Commission is also proposing to encourage better product design by differentiating the financial contribution paid by producers under extended producer responsibility schemes on the basis of the end-of-life costs of their products. This should create a direct economic incentive to design products that can be more easily recycled or reused.
+
+Finally, the Commission will examine options and actions for a more coherent policy framework for the different strands of work on EU product policy
+4
+ in their contribution to the circular economy.
+
+- The Commission will promote the reparability, upgradability, durability, and recyclability of products by developing product requirements relevant to the circular economy in its future work under the Ecodesign Directive, as appropriate and taking into account the specificities of different product groups. The Ecodesign working plan for 2015-2017 will elaborate on how this will be implemented. The Commission will shortly also propose Ecodesign requirements for electronic displays. 
+
+-  The revised legislative proposals on waste creates economic incentives for better product design through provisions on extended producer responsibility.
+
+- The Commission will examine options and actions for a more coherent policy framework of the different strands of work of its product policy in their contribution to the circular economy. 
+
+1.2.Production processes
+
+Even for products or materials designed in a smart way, inefficient use of resources in production processes can lead to lost business opportunities and significant waste generation. 
+
+Primary raw materials, including renewable materials, will continue to play an important role in production processes, even in a circular economy. In this context, attention must be paid to the environmental and social impacts of their production, both in the EU and in non-EU countries. The Commission therefore promotes the sustainable sourcing of raw material globally, for example through policy dialogues, partnerships and its trade
+5
+ and development policy. Industry has a key role to play by making specific commitments to sustainable sourcing and cooperating across value chains. 
+
+Each industry sector is different when it comes to resource use, waste generation and management. Therefore, the Commission will further promote best practices in a range of industrial sectors through the 'best available technique reference documents' (BREFs) that Member States have to reflect when issuing permit requirements for industrial installations, and promote best practices on mining waste. The Commission is also helping SMEs to benefit from the business opportunities of increased resource efficiency with the creation of the European Resource Efficiency Excellence Centre.
+6
+ Facilitating substitution of chemicals of concern or supporting SME access to innovative technologies
+7
+ are examples of actions in this area. Improving the efficiency and uptake of the EU Eco-Management and Audit Scheme (EMAS)
+8
+ and the pilot programme on environmental technology verification (ETV)
+9
+ could also benefit businesses and SMEs in particular.
+
+In addition, it is important to promote innovative industrial processes. For example, industrial symbiosis allows waste or by-products of one industry to become inputs for another. In its revised proposals on waste, the Commission proposes elements to facilitate this practice, and will engage with Member States to help ensure a common understanding of the rules on by-products. The reuse of gaseous effluents
+10
+ is another example of innovative process. Remanufacturing
+11
+ is another high-potential area: it is already common practice in certain industries, such as vehicles or industrial machinery, but could be applied to new sectors. The EU is supporting such promising developments through its research and innovation financing programme, Horizon 2020,
+12
+ and through Cohesion Policy funds.
+13
+ 
+
+- The Commission will include guidance on best waste management and resource efficiency practices in industrial sectors in Best Available Techniques reference documents (BREFs)
+14
+
+
+and will issue guidance and promote best practices on mining waste.
+
+- The Commission is proposing (in the revised legislative proposals on waste) to clarify rules on by-products to facilitate industrial symbiosis and help create a level-playing field across the EU.
+
+2.Consumption
+
+The choices made by millions of consumers can support or hamper the circular economy. These choices are shaped by the information to which consumers have access, the range and prices of existing products, and the regulatory framework. This phase is also crucial for preventing and reducing the generation of household waste. 
+
+Faced with a profusion of labels or environmental claims, EU consumers often find it difficult to differentiate between products and to trust the information available. Green claims may not always meet legal requirements for reliability, accuracy and clarity.
+15
+ The Commission is working with stakeholders to make green claims more trustworthy, and will ensure better enforcement of the rules in place, including through updated guidance on unfair commercial practices
+16
+. It is testing the Product Environmental Footprint,
+17
+ a methodology for measuring environmental performance, and will explore its use to measure or communicate environmental information. The voluntary EU Ecolabel identifies products that have a reduced environmental impact throughout their lifecycle. The Commission will examine how to increase its effectiveness and contribution to the circular economy.
+18
+
+
+Earlier this year, the Commission proposed an improved labelling system for the energy performance of household appliances and other energy-related products, which will help consumers choose the most efficient products.
+19
+ The proposed system will also allow for the displaying to consumers of information on the environmental performance, including durability, of energy-related products
+20
+. 
+
+Price is a key factor affecting purchasing decisions, both in the value chain and for final consumers. Member States are therefore encouraged to provide incentives and use economic instruments, such as taxation, to ensure that product prices better reflect environmental costs. Aspects relating to guarantees, such as the legal guarantee period and the reversal of the burden of proof,
+21
+ are also an important part of the consumption puzzle, as they can protect consumers against defective products and contribute to products' durability and reparability, preventing them from being thrown away. A two year legal guarantee exists in the EU for physical goods, but problems are still encountered in its implementation. The Commission will address issues such as these, notably in the context of its upcoming proposal for online sales of goods. It will also evaluate key pieces of consumer legislation and consider possible improvements
+22
+. 
+
+Once a product has been purchased, its lifetime can be extended through reuse and repair, hence avoiding wastage. The reuse and repairs sectors are labour-intensive and therefore contribute to the EU's jobs and social agenda. Currently, certain products cannot be repaired because of their design, or because spare parts or repair information are not available. Future work on ecodesign of products (see section 1.1) will help to make products more durable and easier to repair: in particular, requirements concerning the availability of spare parts and repair information (e.g. through online repair manuals) will be considered, including through exploring the possibility of horizontal requirements on the provision of repair information. Planned obsolescence practices can also limit the useful lifetime of products. Through an independent testing programme, the Commission will initiate work to detect such practices and ways to address them. In addition, the revised legislative proposals on waste includes new provisions to boost preparation for reuse activities. Member States and regional and local authorities also have an important role in encouraging reuse and repair, and some have already taken initiatives in this area. 
+
+Other actions can be taken to reduce the amount of household waste. This is often more effective at national and local level, where it can be better targeted: awareness campaigns and economic incentives
+23
+ have proven particularly effective. The Commission promotes waste prevention and reuse through the exchange of information and best practices and by providing Cohesion Policy funding for projects at local and regional level, including interregional cooperation. 
+
+Innovative forms of consumption can also support the development of the circular economy, e.g. sharing products or infrastructure (collaborative economy), consuming services rather than products, or using IT or digital platforms. These new forms of consumption are often developed by businesses or citizens, and promoted at national, regional and local level. The Commission supports these new business and consumption models through Horizon 2020 and through Cohesion Policy funding (see also section 6). As announced in the Single Market Strategy
+24
+, it will also develop a European agenda for the collaborative economy.
+
+Public procurement accounts for a large proportion of European consumption (nearly 20% of EU GDP). It can therefore play a key role in the circular economy, and the Commission will encourage this role through its actions on Green Public Procurement
+25
+ (GPP), where criteria are developed at EU level and then used by public authorities on a voluntary basis. First, the Commission will make sure that in future, special emphasis is placed on aspects relevant to the circular economy, such as durability and reparability, when setting out or revising criteria. Secondly, it will support a greater uptake of these criteria by public authorities,
+26
+ and reflect on how GPP could be used more widely across the EU, in particular for products or markets that have high relevance for the circular economy. Finally, the Commission will lead by example, by making sure that Green Public Procurement is used as widely as possible in its own procurement, and by reinforcing the use of GPP in EU funding.
+
+- The Commission will specifically consider proportionate requirements on durability and the availability of repair information and spare parts in its work on Ecodesign, as well as durability information in future Energy Labelling measures. 
+
+-  In the revised waste proposals, the Commission proposes new rules which will encourage reuse activities.
+
+- The Commission will work towards better enforcement of the guarantees on tangible products, examine possible options for improvement, and tackle false green claims
+
+- The Commission will prepare an independent testing programme under Horizon 2020 to help the identification of issues related to possible planned obsolescence. This work would involve relevant stakeholders as appropriate.
+
+- The Commission will take action on Green Public Procurement (GPP), by emphasising circular economy aspects in new or revised criteria, supporting higher uptake of GPP, and leading by example in its own procurement and in EU funding.
+
+3.Waste management 
+
+Waste management plays a central role in the circular economy: it determines how the EU waste hierarchy is put into practice. The waste hierarchy establishes a priority order from prevention, preparation for reuse, recycling and energy recovery through to disposal, such as landfilling. This principle aims to encourage the options that deliver the best overall environmental outcome. The way we collect and manage our waste can lead either to high rates of recycling and to valuable materials finding their way back into the economy, or to an inefficient system where most  recyclable waste ends in landfills or is incinerated, with potentially harmful environmental impacts and significant economic losses. To achieve high levels of material recovery, it is essential to send long-term signals to public authorities, businesses and investors, and to establish the right enabling conditions at EU level, including consistent enforcement of existing obligations. All waste should be considered, be it generated by household, businesses, industry and mining (see section 1.2), or the construction sector (see section 5.4). 
+
+Today, only around 40% of the waste produced by EU households is recycled. This average masks wide variation between Member States and regions, with rates as high as 80% in some areas, and lower than 5% in others. The Commission is putting forward new legislative proposals on waste to provide a long-term vision for increasing recycling and reducing the landfilling of municipal waste, while taking account of differences between Member States. These proposals also encourage greater use of economic instruments to ensure coherence with the EU waste hierarchy.
+
+The revised waste proposals also includes increased recycling targets for packaging materials
+27
+, which will reinforce the targets on municipal waste and improve the management of packaging waste in the commercial and industrial sectors. More packaging waste (from households and industrial/commercial sources) has been recycled in the EU since the introduction of EU-wide targets for paper, glass, plastics, metal and wood packaging
+28
+, and there is potential for more recycling, with both economic and environmental benefits. 
+
+To raise levels of high-quality recycling, improvements are needed in waste collection and sorting. Collection and sorting systems are often financed in part by extended producer responsibility schemes, in which manufacturers contribute to product collection and treatment costs. In order to make these schemes more effective, the Commission is proposing minimum conditions on transparency and cost-efficiency. Member States and regions can also use these schemes for additional waste streams such as textiles or furniture.
+
+The revised waste proposals will also address key issues relating to the calculation of recycling rates. This is essential to ensure comparable, high-quality statistics across the EU, and to simplify the current system and encourage higher rates of effective recycling for separately collected waste.
+
+It is also important to address obstacles on the ground. Often, higher recycling rates are limited by administrative capacity, a lack of investment in separate collection and recycling infrastructure and insufficient use of economic instruments (e.g. landfill charges or pay-as-you-throw schemes); the creation of overcapacities in infrastructure to treat residual (including mixed) waste also poses major challenges. The new legislative proposals on waste takes account of these obstacles by combining long-term and interim targets with the possibility for time-extensions for countries that face the biggest challenges in stepping up separate collection and recycling, while requiring an implementation strategy to ensure that progress is made and that implementation gaps are tackled in time. The Commission is also committed to providing technical assistance to Member states experiencing difficulties in implementation and to facilitating exchange of best practices with countries and regions that have successfully improved their waste management. The Commission has already launched a number of compliance promotion initiatives to ensure better implementation of EU waste legislation, including on municipal and hazardous waste and separate collection, and to raise awareness at national level. The ongoing close cooperation with Member States will be stepped up in the future and will better link waste legislation with wider actions in support of the circular economy. 
+
+   
+
+EU Cohesion Policy has a key role to play in closing the investment gap for improved waste management and supporting the application of the waste hierarchy
+29
+. In the past two decades, these funds have been used widely across the EU to develop waste management infrastructure. For the current (2014-2020) financing programme, ex-ante conditions must be met to ensure that new investments in the waste sector are in line with waste management plans designed by Member States to meet their recycling targets. This means that funding for new landfill will be granted only in exceptional cases (e.g. mainly for non-recoverable hazardous waste) and that funding for new facilities for the treatment of residual waste, such as incineration or mechanical biological treatment, will be granted only in limited and well justified cases, where there is no risk of overcapacity and the objectives of the waste hierarchy are fully respected. In total, it is foreseen that €5.5 billion will be dedicated to waste management in the current financing programme.
+
+Another barrier to higher recycling rates is the illegal transport of waste, both within the EU and to non-EU countries, which often results in economically sub-optimal and environmentally unsound treatment. A revised regulation on waste shipment was adopted in 2014
+30
+ which will facilitate the detection of these illegal shipments; the Commission will take further measures to help ensure that it is properly implemented. High-value waste streams, such as end-of-life vehicles, will be targeted specifically, to prevent raw materials leakage.
+
+In addition, in order to foster high-quality recycling in the EU and elsewhere, the Commission will promote the voluntary certification of treatment facilities for certain key types of waste (e.g. electronic waste, plastics).
+
+When waste cannot be prevented or recycled, recovering its energy content is in most cases preferable to landfilling it, in both environmental and economic terms. ‘Waste to energy’ can therefore play a role and create synergies with EU energy and climate policy, but guided by the principles of the EU waste hierarchy. The Commission will examine how this role can be optimised, without compromising the achievement of higher reuse and recycling rates, and how the corresponding energy potential can best be exploited. To that end, the Commission will adopt a 'waste to energy' initiative in the framework of the Energy Union.
+
+ The Commission is adopting, together with this action plan, revised legislative proposals on waste comprising in particular:
+
+- long-term recycling targets for municipal waste and packaging waste, and to reduce landfill
+
+- provisions to promote greater use of economic instruments
+
+- general requirements for extended producer responsibility schemes
+
+- simplification and harmonisation of definitions and calculation methods 
+
+and will step up its work with Member States to improve waste management on the ground, including to avoid overcapacities in residual waste treatment.
+
+The Commission will assist Member States and regions to ensure that Cohesion Policy investments in the waste sector contribute to supporting the objectives of the EU waste legislation and are guided by the EU waste hierarchy.
+
+4.From waste to resources: boosting the market for secondary raw materials and water reuse
+
+In a circular economy, materials that can be recycled are injected back into the economy as new raw materials thus increasing the security of supply. These "secondary raw materials" can be traded and shipped just like primary raw materials from traditional extractive resources. 
+
+At present, secondary raw materials still account for a small proportion of the materials used in the EU
+31
+. Waste management practices have a direct impact on the quantity and quality of the materials and therefore actions to improve these practices are crucial (see section 3.). However, other barriers restrict the growth of this important market and the smooth circulation of the materials, and the Commission is developing further analysis on the major obstacles in this context. EU action is particularly important in this area, given the Single Market implications and the links with existing EU legislation. 
+
+One of the barriers faced by operators who want to use secondary raw materials is uncertainty as to their quality. In the absence of EU-wide standards, it can be difficult to ascertain impurity levels or suitability for high-grade recycling (e.g. for plastics). The development of such standards should increase trust in secondary raw materials and in recycled materials, and help support the market. The Commission will therefore launch work on EU-wide quality standards for secondary raw materials where needed, in consultation with the industries concerned.  Moreover, the revised legislative proposals on waste establish more harmonised rules to determine when a secondary raw material should no longer be legally considered as 'waste', by clarifying existing rules on 'end-of-waste'. This will provide operators with more certainty and a level playing field. 
+
+Recycled nutrients are a distinct and important category of secondary raw materials, for which the development of quality standards is necessary. They are present in organic waste material, for example, and can be returned to soils as fertilisers. Their sustainable use in agriculture reduces the need for mineral-based fertilisers, the production of which has negative environmental impacts, and depends on imports of phosphate rock, a limited resource. However, the circulation of fertilisers based on recycled nutrients is currently hampered by the fact that rules as well as quality and environmental standards differ across Member States. In order to address this situation, the Commission will propose a revision of the EU regulation on fertilisers. This will involve new measures to facilitate the EU wide recognition of organic and waste-based fertilisers, thus stimulating the sustainable development of an EU-wide market.
+
+Water scarcity has worsened in some parts of the EU in recent decades, with damaging effects on our environment and economy. In addition to water-efficiency measures, the reuse of treated wastewater in safe and cost-effective conditions is a valuable but under-used means of increasing water supply and alleviating pressure on over-exploited water resources in the EU. Water reuse in agriculture also contributes to nutrients recycling by substitution of solid fertilisers. The Commission will take a series of actions to promote the reuse of treated wastewater, including legislation on minimum requirements for reused water. 
+
+Another very important issue for the development of secondary raw materials markets is the link with legislation on chemicals. A growing number of chemical substances are identified as being of concern for health or the environment and become subject to restrictions or prohibitions. However, these substances may be present in products sold before the restrictions applied, some of which have a long lifetime, and therefore chemicals of concern can sometimes be found in recycling streams. Such substances can be costly to detect or remove, creating obstacles in particular for small recyclers.
+
+The promotion of non-toxic material cycles and better tracking of chemicals of concern in products will facilitate recycling and improve the uptake of secondary raw materials. The interaction of legislations on waste, products and chemicals must be assessed in the context of a circular economy in order to decide the right course of action at EU level to address the presence of substances of concern, limit unnecessary burden for recyclers and facilitate the traceability and risk management of chemicals in the recycling process. The Commission will therefore develop its analysis and propose options for action to overcome unnecessary barriers while preserving the high level of protection of human health and the environment. This work will feed into the future EU strategy for a non-toxic environment.
+32
+
+
+It is also essential to facilitate the cross-border circulation of secondary raw materials to ensure that they can be traded easily across the EU. Action in this area will include the simplification of cross-border formalities through the use of electronic data exchange. The Commission is examining other barriers to the smooth circulation of waste in the EU. To improve the availability of data on secondary raw materials the Commission will further develop the recently initiated Raw Materials Information System and support EU-wide research on raw materials flows. It will also support the improvement of data reporting on waste shipment, including through the use of data available in the context of cross-border electronic data exchange.
+
+A key factor in creating a dynamic market for secondary raw materials is sufficient demand, driven by the use of recycled materials in products and infrastructure. For certain raw materials (e.g. paper or metal), demand is already high; for others, it is still developing. The role of the private sector in creating demand and helping to shape supply chains will be essential; a number of industrial and economic actors have already given public commitment to ensuring a certain level of recycled content in products they put on the market for both sustainability and economic reasons. This should be encouraged, given that market-driven initiatives can be a fast way to deliver tangible results. Public authorities can also contribute to the demand for recycled materials through their procurement policies. 
+
+ 
+
+- The Commission will launch work to develop quality standards for secondary raw materials where they are needed (in particular for plastics), and is proposing improvements to the rules on 'end-of-waste'.
+
+- The Commission will propose a revised EU regulation on fertilisers, so as to facilitate recognition of organic and waste-based fertilisers in the single market and thus support the role of bio-nutrients in the circular economy.
+
+- The Commission will take a series of actions to facilitate water reuse; this will include a legislative proposal on minimum requirements for reused water, e.g. for irrigation and groundwater recharge.
+
+- The Commission will develop analysis and propose options on the interface between chemicals, products and waste legislation, including on how to reduce the presence and improve the tracking of chemicals of concern in products. 
+
+- The Commission will further develop the recently launched Raw Materials Information System and support EU-wide research on raw materials flows.
+
+5.Priority areas
+
+A number of sectors face specific challenges in the context of the circular economy, because of the specificities of their products or value-chains, their environmental footprint or dependency on material from outside Europe. These sectors need to be addressed in a targeted way, to ensure that the interactions between the various phases of the cycle are fully taken into account along the whole value chain. 
+
+5.1.Plastics
+
+Increasing plastic recycling is essential for the transition to a circular economy. The use of plastics in the EU has grown steadily, but less than 25% of collected plastic waste is recycled and about 50% goes to landfill. Large quantities of plastics also end up in the oceans, and the 2030 Sustainable Development Goals include a target to prevent and significantly reduce marine pollution of all kinds, including marine litter. Smarter separate collection and certification schemes for collectors and sorters are critical to divert recyclable plastics away from landfills and incineration into recycling. The presence of hazardous chemical additives can pose technical difficulties and the emergence of innovative types of plastics raises new questions, e.g. as regards plastics biodegradability. However, innovation in plastics can contribute to the circular economy by better preserving food, improving the recyclability of plastics or reducing the weight of materials used in vehicles. 
+
+In order to address these complex and important issues, the Commission will prepare a strategy addressing the challenges posed by plastics throughout the value chain and taking into account their entire life-cycle
+33
+. It will also take action to fulfil the objective of significantly reducing marine litter.
+34
+ In the context of the 2016 revision of the Directive on port reception facilities,
+35
+ the Commission will also address the issue of marine litter from ships and examine options to increase its delivery to and adequate treatment by port reception facilities. A number of other elements of this action plan will also help to increase plastics recycling, including ecodesign (section 1.1), an EU-wide target on recycling plastic packaging (section 3), quality standards and action to facilitate cross-border trade in recyclable plastics (section 4).
+
+- The Commission will adopt a strategy on plastics in the circular economy, addressing issues such as recyclability, biodegradability, the presence of hazardous substances of concern in certain plastics, and marine litter.
+
+- The Commission is proposing, in the revised legislative proposals on waste, a more ambitious target for the recycling of plastic packaging.
+
+5.2.Food waste
+
+Food waste is an increasing concern in Europe. The production, distribution and storage of food use natural resources and generate environmental impacts. Discarding food that is still edible increases these impacts, and causes financial loss for consumers and the economy. Food waste also has an important social angle: donation of food that is still edible but that for logistic or marketing reasons cannot be commercialised should be facilitated. In September 2015, as part of the 2030 Sustainable Development Goals, the United Nations General Assembly adopted a target of halving per capita food waste at the retail and consumer level, and reducing food losses along production and supply chains. The EU and its Member States are committed to meeting this target.
+
+Food waste takes place all along the value chain: during production and distribution, in shops, restaurants, catering facilities, and at home. This makes it particularly hard to quantify: today, there is no harmonised, reliable method to measure food waste in the EU, which makes it more difficult for public authorities to assess its scale, origins, and trends over time. Addressing the measurement issue is an important step towards a better understanding of the problem, a coherent monitoring and reporting as well as effective exchange of good practices across the EU. The Commission will elaborate a common EU methodology to measure food waste in close cooperation with Member States and stakeholders. 
+
+Action by Member States, regions, cities, and business along the value chain is essential to prevent food waste and tackle varying situations across countries and regions. Awareness campaigns are needed to change behaviour. The Commission supports awareness raising at national, regional and local levels and the dissemination of good practices in food waste prevention
+36
+. 
+
+The Commission will also create a platform dedicated to food waste, bringing together Member States and all actors in the food chain. This platform will support the achievement of the food waste reduction target under the Sustainable Development Goals through appropriate steps, the involvement of stakeholders, the sharing of valuable and successful innovation and relevant benchmarking.
+
+EU action is also important in areas where food waste can result from the way EU legislation is interpreted or implemented. This is the case for rules concerning food donation to food banks, and the use of safe unsold food as a resource in animal feed – the Commission will take measures in these two areas. 
+
+Another area where action might be needed concerns date marking, in particular the "best before" date. This can be wrongly interpreted as an expiry date and lead to the discarding of safe, edible food. The Commission will examine ways of promoting a better use and understanding of date marking by the various actors of the food chain. The EU has also adopted measures to prevent edible fish being thrown back into the sea from fishing vessels.
+37
+ 
+
+In order to support the achievement of the Sustainable Development Goal target on food waste and to maximise the contribution of actors in the food supply chain, the Commission will:
+
+- develop a common EU methodology to measure food waste and define relevant indicators. It will create a platform involving Member States and stakeholders in order to support the achievement of the SDG targets on food waste, through the sharing of best practice and the evaluation of progress made over time.
+
+- take measures to clarify EU legislation relating to waste, food and feed and facilitate food donation and the use of former foodstuff and by-products from the food chain in feed production without compromising food and feed safety; and
+
+ - examine ways to improve the use of date marking by actors in the food chain and its understanding by consumers, in particular the "best before" label.
+
+5.3.Critical raw materials
+
+Critical raw materials are both of high economic importance for the EU and vulnerable to supply disruption
+38
+; in certain cases, their extraction also causes significant environmental impacts. They are often present in electronic devices
+39
+. The current very low rate of recycling of these materials means that significant economic opportunities are lost. For all these reasons, increasing the recovery of critical raw materials is one of the challenges that must be addressed in the move to a more circular economy. 
+
+Existing EU legislation encourages the recycling of electronic waste, including through mandatory targets
+40
+; but only high-quality recycling can ensure the recovery of critical raw materials. One of the challenges is collecting, dismantling and recycling products that contain such materials. It will be essential to improve the recyclability of electronic devices through product design (see section 1.1), thus improving the economic viability of the recycling process.  The Commission is encouraging Member States to promote recycling of critical raw materials in its revised proposals on waste. 
+
+Other barriers include insufficient information exchange between manufacturers and recyclers of electronic products, the absence of recycling standards, and a lack of data for economic operators on the potential for recycled critical raw materials. Such materials could also be recovered in landfills (e.g. from discarded electronic devices) or in certain cases from mining waste. The Commission is developing R&I programmes, data and information exchange, and will promote best practices on all these issues. In order to ensure a coherent and effective approach, to provide key data sources and to identify options for further action, it will prepare a report on critical raw materials in the circular economy.
+
+- The Commission will take a series of actions to encourage recovery of critical raw materials, and prepare a report including best practices and options for further action. 
+
+- The Commission is also encouraging action by Member States on this topic in its revised proposals on waste.
+
+   
+
+5.4.Construction and demolition
+
+In volume terms, construction and demolition are among the biggest sources of waste in Europe. Many of the materials are recyclable or can be reused, but reuse and recycling rates vary widely across the EU. The construction sector also plays a role in the environmental performance of buildings and infrastructure throughout their life. 
+
+The recycling of construction and demolition waste is encouraged by an EU-wide mandatory target
+41
+, but challenges on the ground still have to be addressed if waste management in this sector is to improve. For example, valuable materials are not always identified, collected separately, or adequately recovered. The Commission will develop targeted guidelines for use on demolition sites for that purpose, including on the treatment of hazardous waste, and is promoting sorting systems for construction and demolition waste in the revised proposals on waste. It will help to spread best practices by developing voluntary recycling protocols based on the highest common standards for each waste stream. The Commission is also currently conducting a study to identify the obstacles to, and drivers for, the recycling of construction and demolition waste, and best practices in this area.
+
+Given the long lifetime of buildings, it is essential to encourage design improvements that will reduce their environmental impacts and increase the durability and recyclability of their components. The Commission will develop indicators to assess environmental performance throughout the lifecycle of a building
+42
+, and promote their use for building projects through large demonstration projects and guidance on GPP. 
+
+- The Commission will take a series of actions to ensure recovery of valuable resources and adequate waste management in the construction and demolition sector, and to facilitate assessment of the environmental performance of buildings.
+
+5.5.Biomass and bio-based products
+
+Bio-based materials, i.e. those based on biological resources (such as wood, crops or fibres) can be used for a wide range of products (construction, furniture, paper, food, textile, chemicals, etc...) and energy uses (e.g. biofuels). The bioeconomy hence provides alternatives to fossil-based products and energy, and can contribute to the circular economy. Bio-based materials can also present advantages linked to their renewability, biodegradability or compostability. On the other hand, using biological resources requires attention to their lifecycle environmental impacts and sustainable sourcing. The multiple possibilities for their use can also generate competition for them and create pressure on land-use. The Commission will examine the contribution of its 2012 a Bioeconomy Strategy
+43
+ to the circular economy and consider updating it if necessary.
+
+In a circular economy, a cascading use of renewable resources, with several reuse and recycling cycles, should be encouraged where appropriate. Biobased materials, such as for example wood, can be used in multiple ways, and reuse and recycling can take place several times. This goes together with the application of the waste hierarchy (including for food - see section 5.2) and, more generally, options that result in the best overall environmental outcome. National measures such as extended producer responsibility schemes for furniture or wood packaging, or separate collection of wood can have a positive impact. The Commission will work on identifying and sharing best practices in this sector and promote innovation; the revised legislative proposals on waste also include a mandatory EU-level target on recycling wood packaging waste.  In addition, the Commission will promote synergies with the circular economy when examining the sustainability of bioenergy under the Energy Union.
+
+The bio-based sector has also shown its potential for innovation in new materials, chemicals and processes, which can be an integral part of the circular economy. Realising this potential depends in particular on investment in integrated bio-refineries, capable of processing biomass and bio-waste for different end-uses. The EU is supporting such investments and other innovative bio economy-based projects through research funding
+44
+.
+
+- The Commission will promote efficient use of bio-based resources through a series of measures including guidance and dissemination of best practices on the cascading use of biomass and support for innovation in the bioeconomy. 
+
+- The revised legislative proposals on waste contains a target for recycling wood packaging and a provision to ensure the separate collection of biowaste. 
+
+6.Innovation, investment, and other horizontal measures
+
+The transition to a circular economy is a systemic change. In addition to targeted actions affecting each phase of the value chain and key sectors, it is necessary to create the conditions under which a circular economy can flourish and resources can be mobilised.  
+
+Innovation will play a key part in this systemic change. In order to rethink our ways of producing and consuming, and to transform waste into high value-added products, we will need new technologies, processes, services and business models which will shape the future of our economy and society. Hence, support of research and innovation will be a major factor in encouraging the transition; it will also contribute to the competitiveness and modernisation of EU industry. The Horizon 2020 work programme 2016-2017 includes a major initiative: "Industry 2020 in the circular economy", which will grant over €650 million for innovative demonstration projects that support the objectives of the circular economy and industrial competitiveness in the EU in a wide range of industrial and service activities, including process industries, manufacturing, and new business models. It also explores a pilot approach to help innovators facing regulatory obstacles (e.g. ambiguous legal provisions), by setting up agreements with stakeholders and public authorities ('innovation deals').
+
+This initiative adds to a wide range of existing Horizon 2020 programmes supporting innovative projects relevant to the circular economy, in fields such as waste prevention and management, food waste, remanufacturing, sustainable process industry, industrial symbiosis, and the bioeconomy
+45
+. These will be complemented by the implementation of the Eco-innovation Action Plan
+46
+.
+
+Important R&I funding opportunities are also available under the Cohesion Policy: the circular economy is one of the priorities highlighted by Member States and regions in their Smart Specialisation Strategies
+47
+. The Commission will offer further support to them, including through the Smart Specialisation Platform.
+
+The development of the circular economy will also require public and private sources of financing to scale up improved technologies and processes, develop infrastructure and increase cooperation between actors in the value chain. Significant support for these objectives will come from EU funding programmes such as Cohesion Policy, LIFE and COSME. For example, Cohesion Policy funds are directed towards a growing number of programmes supporting the circular economy, including support for reuse and repair, improved production processes, product design and SMEs
+48
+. The Commission will assist Member States, regions and local authorities in strengthening their circular economy approach in this context through targeted outreach.  Private finance needs to be directed towards new opportunities created by the circular economy. For the financial sector, such projects can differ significantly from 'business as usual'. The European Fund for Strategic Investments (EFSI) is one instrument that can be used to fund such investments. Together with the European Investment Bank EIB), and the European Investment Advisory Hub, the Commission will carry out outreach to encourage applications for funding, and support the development of projects and investment platforms relevant to the circular economy, e.g. in the areas of plastics recycling or mineral. Work will be done to develop cross-sectoral clusters and pool resources to formulate projects with a European dimension.
+49
+ In addition, circular economy projects can benefit from EIB advisory and financing tools under the InnovFin programme.
+50
+ The Commission is also assessing the possibility of launching a platform together with the EIB and national banks to support the financing of the circular economy.
+
+SMEs, including social enterprises, will make a key contribution to the circular economy: they are particularly active in fields such as recycling, repair, and innovation. However, they also face specific challenges, such as access to funding, and the difficulty of taking  account of the circular economy if it is not their core business. As set out in the 2014 Green Action Plan for SMEs
+51
+, the Commission is acting to support these companies, analyse the barriers they encounter to a better use of resources and waste management, and to encourage innovation and cooperation across sectors and regions. The Commission also provides access to finance for social enterprises
+52
+. 
+
+The transition to a circular economy will also require a qualified workforce with specific and sometimes new skills, and opportunities for employment and social dialogue. If the right skills at all levels are to be developed, they will have to be espoused by the education and training systems. The Commission is following up on its Green Employment Initiative
+53
+ with action to anticipate needs and encourage the development of skills and other measures to support job creation in the green economy. It is also acting through its forthcoming New Skills Agenda for Europe.   
+
+The global dimension of the circular economy and supply chains is prominent in areas such as sustainable sourcing, marine litter, food waste, and an increasingly globalised market for secondary raw materials. In implementing this action plan, the Commission will cooperate closely with international organisations and other interested partners as part of the global efforts to reach the 2030 Sustainable Development Goals. 
+
+Finally, the Commission will actively engage stakeholders in the implementation of this action plan, in particular through existing sectorial platforms. This will be complemented by further support for public private partnerships, voluntary business approaches, exchange of best practice among Member States and regions, and will include consultation with social partners where changes may have important social implications. 
+
+- The Horizon 2020 Work Programme for 2016-2017 includes a major initiative on ‘Industry 2020 in the circular economy’, with funding of over €650 million 
+
+- The Commission will launch a pilot approach for "innovation deals" to identify and address potential regulatory obstacles for innovators.
+
+- The Commission will step-up its action to mobilise stakeholders on the circular economy and in particular for the implementation of this action plan. It will also carry out targeted outreach to help the development of circular economy projects for various sources of EU funding, in particular Cohesion Policy Funds.
+
+7.Monitoring progress towards a circular economy
+
+In order to assess progress towards a more circular economy and the effectiveness of action at EU and national level, it is important to have a set of reliable indicators. A lot of relevant data already collected by Eurostat can form a basis for this monitoring. In addition, the Resource Efficiency Scoreboard
+54
+ and the Raw Materials Scoreboard
+55
+ contain relevant indicators and analysis which will be particularly useful for tracking progress.
+
+On this basis, the Commission will work in close cooperation with the European Environment Agency (EEA) and in consultation with Member States to propose a simple and effective monitoring framework for the circular economy. Complementing the two above-mentioned scoreboards, this framework will include a set of key, meaningful indicators that capture the main elements of the circular economy. These will be published in connection with the Commission's reporting on the Sustainable Development Goals and will include new indicators on food waste (see section 5.2) and indicators based on existing Eurostat and other official data in areas such as security of supply for key raw materials, repair and reuse, waste generation, waste management, trade in secondary raw materials in the EU and with non-EU countries, and the use of recycled materials in products. Where necessary, action will be taken to improve the quality of existing data. The Commission will report on progress in implementing this action plan five years after its adoption.
+
+In close cooperation with the EEA and in consultation with Member States, the Commission will develop a monitoring framework for the circular economy, designed to measure progress effectively on the basis of reliable existing data
+56
+. 
+
+8.Conclusion
+
+This action plan sets out a concrete and ambitious EU mandate to support the transition towards a circular economy. A continued, broader commitment from all levels of government, in Member States, regions and cities and all stakeholders concerned will also be necessary. The Commission invites the European Parliament and the Council to endorse this action plan and to actively engage in its implementation, in close cooperation with all relevant stakeholders.
+
+ Growth within: a circular economy vision for a competitive Europe, report by the Ellen MacArthur Foundation, the McKinsey Centre for Business and Environment and the Stiftungsfonds für Umweltökonomie und Nachhaltigkeit (SUN), June 2015.
+
+ Directive 2009/125/EC. This Directive covers all energy-related products.
+
+ Together with the energy labelling measures in place, it is estimated that the Ecodesign Directive will save 175 Mtoe of primary energy by 2020.
+
+ e.g. Ecodesign, Energy Labelling, Ecolabel, Green Public Procurement, and other relevant product legislation.
+
+ In particular the "Trade and investment for all" strategy adopted in October 2015.
+
+ 
+
+http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014DC0440
+
+ 
+
+ In order to facilitate SME's access to technological service centres in the area of Key Enabling Technologies
+
+ Following its ongoing Fitness Check
+
+ 
+
+http://ec.europa.eu/environment/etv/etv_preprog.htm
+
+ 
+
+ In particular CO2.
+
+ A series of manufacturing steps acting on an end-of-life part or product in order to return it to like-new or better performance, with corresponding warranty.
+
+ Call for Factories of the Future, 2014 – call on industrial symbiosis, 2014
+
+ 
+
+http://ec.europa.eu/regional_policy/index.cfm/en/information/legislation/guidance/
+
+ 
+
+ This will take place in the context of the regular planned reviews of the BREFs
+
+ See consumer market study on environmental claims for non-food products: http://ec.europa.eu/consumers/consumer_evidence/market_studies/environmental_claims/index_en.htm
+
+ In the context of Directive 2005/29/EC on unfair business-to-consumer commercial practices
+
+ COM/2013/0196 final. Currently being tested on pilots projects. Subject to pilots' results, the Commission will consider the further use of the Product Environmental Footprint methodology.
+
+ Following its ongoing Fitness Check
+
+ COM(2015)341
+
+ Based on data that are measurable by market surveillance authorities, and without significant negative impact on the clear intelligibility and effectiveness of the label for customers
+
+  Under Directive 99/44/EC, within the first six months after delivery, the seller has to prove that no lack of conformity existed at the time of delivery. Subsequently, the burden of proof is on the buyer.
+
+ Under the Fitness Check of consumer legislation announced in the Commission Working Programme 2015 (COM(2014) 910 final – Annex 3).
+
+ Such as incentive systems for municipalities or "pay-as-you-throw" schemes, where households (for example) pay according to the amount of non-recyclable waste that they throw away.
+
+ COM(2015) 550
+
+ In line with the global Sustainable Development Goal of promoting public procurement practices that are sustainable
+
+ Inter alia through targeted training schemes
+
+ In the proposal for metals, separate sub-targets will be introduced for aluminium and ferrous metals.
+
+ http://ec.europa.eu/environment/waste/packaging/index_en.htm
+
+ Including through innovative approaches
+
+ 
+
+Regulation (EU) No 660/2014 of 15 May 2014
+
+
+ With some exceptions such as steel or paper – e.g. 5% for plastics.
+
+ Announced in the 7th Environment Action Programme
+
+ This strategy will include a follow-up to the 
+
+Green Paper on plastic waste
+
+.
+
+ The European Commission, in its communication "Towards a circular economy, a zero waste programme for Europe" has proposed an aspirational target of "reducing marine litter by 30 % by 2020 for the ten most common types of litter found on beaches, as well as for fishing gear found at sea, with the list adapted to each of the four marine regions in the EU". Work to reach this target is already underway in Europe.
+
+ 2000/59/CE
+
+ 
+
+http://ec.europa.eu/food/safety/food_waste/stop/index_en.htm
+
+
+ Article15 of Regulation(EU) N° 1380/2013 on the common fisheries policy
+
+ The European Commission has listed critical raw materials here: 
+
+http://ec.europa.eu/enterprise/policies/raw-materials/critical/index_en.htm
+
+. They include, for example, rare earth elements and other precious metals, but also phosphorus.
+
+ Such as rare earths in electronic displays or precious metals in printed circuit boards
+
+ 
+
+http://ec.europa.eu/environment/waste/weee/index_en.htm
+
+ 
+
+ 
+
+http://ec.europa.eu/environment/waste/construction_demolition.htm
+
+ 
+
+ In application of the 
+
+Communication on "Resource efficiency opportunities in the building sector
+
+
+ COM(2012)60
+
+ 
+
+http://ec.europa.eu/research/bioeconomy/index.cfm
+
+ 
+
+ Horizon 2020 work programme for 2014-2015; call for the ‘Waste: a resource to re-use, recycle, and recovery raw materials’ focus area; 
+
+http://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/main/h2020-wp1415-climate_en.pdf
+
+; FP7 Environmental Theme, 2013 resource efficiency call: 
+
+http://ec.europa.eu/research/participants/data/ref/fp7/132129/f-wp-201301_en.pdf
+
+ 
+
+ 
+
+http://ec.europa.eu/environment/ecoap/index_en.htm
+
+ 
+
+ 
+
+http://s3platform.jrc.ec.europa.eu/home
+
+ 
+
+ 
+
+http://ec.europa.eu/regional_policy/en/policy/what/investment-policy/
+
+ 
+
+ 
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0209:FIN:EN:PDF
+ 
+
+ 
+
+http://www.eib.org/products/blending/innovfin/?lang=en
+
+ – the Commission will extend the scope of the Innov'fin instrument to ensure eligibility of a wider range of innovative circular economy projects
+
+ 
+
+http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014DC0440
+
+ 
+
+ Through the EU Programme for Employment and Social Innovation (EaSI): 
+
+http://ec.europa.eu/social/main.jsp?catId=1081
+
+ 
+
+ 
+
+COM(2014)446
+
+
+ 
+
+http://ec.europa.eu/eurostat/web/environmental-data-centre-on-natural-resources/resource-efficiency-indicators/resource-efficiency-scoreboard
+
+ 
+
+ Developed in the context of the European Innovation Partnership on Raw Materials – to be published on  
+
+https://ec.europa.eu/growth/tools-databases/eip-raw-materials/en/content/eip-raw-materials-monitoring-and-evaluation-scheme
+
+
+ and newly developed data on food waste (see section 5.2). 
+
+EUROPEAN COMMISSIONBrussels, 2.12.2015COM(2015) 614 finalANNEX
+to the COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONSClosing the loop - An EU action plan for the Circular Economy
+The measures presented in this action plan will all need to be taken forward in line with the better regulation principles, including where appropriate an impact assessment.
+
+Actions
+
+Timetable
+
+Production
+
+Emphasis on circular economy aspects in future product requirements under the Ecodesign directive. 
+
+2016 onwards
+
+Ecodesign work plan 2015-2017 and request to European standardisation organisations to develop standards on material efficiency for setting future Ecodesign requirements on durability, reparability and recyclability of products.
+
+December  2015
+
+Proposal for an implementing regulation on televisions and displays
+
+End 2015 or beginning 2016
+
+ Examine options and actions for a more coherent policy framework of the different strands of work of EU product policy in their contribution to the circular economy
+
+2018
+
+Include guidance on circular economy into Best Available Techniques reference documents (BREFs) for several industrial sectors
+
+2016 onwards
+
+Guidance and promotion of best practices in the mining waste management plans
+
+2018
+
+Establishing an open, pan-European network of technological infrastructures for SMEs to integrate advanced manufacturing technologies into their production processes
+
+2016
+
+Examine how to improve the efficiency and uptake of the EU Eco-Management and Audit Scheme (EMAS) and the pilot programme on environmental technology verification (ETV)
+
+2017
+
+Develop an improved knowledge base and support to SMEs for the substitution of hazardous substances of very high concern 
+
+2018
+
+ 
+
+ 
+
+Consumption
+
+Better enforcement of existing guarantees on tangible products, accompanied by a reflection on improvements (upcoming Commission proposal for online sales of goods, and Fitness Check of consumer legislation)
+
+2015-2017
+
+Action on false green claims, including updated guidance on unfair commercial practices
+
+2016
+
+Analysis of the possibility to propose horizontal requirements on repair information provision in the context of Ecodesign
+
+2018
+
+REFIT of Ecolabel, to be followed by actions to enhance its effectiveness
+
+2016
+
+Assessment of the possibility of an independent testing programme on planned obsolescence
+
+2018
+
+Subject to evaluation of the current ongoing pilots, explore the possible uses of the Product Environmental Footprint to measure and communicate environmental information
+
+2016 onwards
+
+Action on Green Public Procurement: enhanced integration of circular economy requirements, support to higher uptake including through training schemes, reinforcing its use in Commission procurement and EU funds
+
+2016 onwards
+
+ 
+
+ 
+
+Waste management
+
+Revised legislative proposal on waste
+
+Dec 2015
+
+Improved cooperation with Member States for better implementation of EU waste legislation, and combat illicit shipment of end of life vehicles
+
+2015 onwards
+
+Stepping up enforcement of revised Waste Shipment regulation
+
+2016 onwards
+
+Promotion of industry-led voluntary certification of treatment facilities for key waste/recyclate streams
+
+2018 onwards
+
+Initiative on waste to energy in the framework of the Energy Union 
+
+2016
+
+Identification and dissemination of good practices in waste collection systems 
+
+ 2016 onwards
+
+ 
+
+ 
+
+Market for secondary raw materials
+
+Development of quality standards for secondary raw materials  (in particular for plastics )
+
+2016 onwards
+
+Proposal for a revised fertilisers regulation
+
+Early 2016
+
+Proposed legislation setting minimum requirements for reused water for irrigation and groundwater recharge
+
+2017
+
+Promotion of safe and cost-effective water reuse, including guidance on the integration of water reuse in water planning and management, inclusion of best practices in relevant BREFs, and support to innovation (through the European Innovation Partnership and Horizon 2020) and investments
+
+2016-2017
+
+Analysis and policy options to address the interface between chemicals, products and waste legislation, including how to reduce the presence and improve the tracking of chemicals of concern in products
+
+2017
+
+Measures to facilitate waste shipment across the EU, including electronic data exchange (and possibly other measures)
+
+2016 onwards
+
+Further development of the EU raw materials information system
+
+2016 onwards
+
+ 
+
+ 
+
+Sectorial action
+
+Plastics
+
+Strategy on plastics in the circular economy 
+
+2017
+
+Specific action to reduce marine litter implementing the 2030 Sustainable Development Goals 
+
+2015 onwards
+
+ 
+
+ 
+
+Food waste
+
+Development of a common methodology and indicators to measure food waste
+
+2016
+
+Stakeholders platform to examine how to achieve SDGs goals on food waste, share best practice and evaluate progress
+
+2016
+
+Clarify relevant EU legislation related to waste, food and feed in order to facilitate food donation and utilisation of former foodstuffs for animal feed
+
+2016
+
+Explore options for more effective use and understanding of date marking on food
+
+2017
+
+ 
+
+ 
+
+Critical raw materials
+
+Report on critical raw materials and the circular economy
+
+2017
+
+Improve exchange of information between manufacturers and recyclers on electronic products
+
+2016 onwards
+
+European standards for material-efficient recycling of electronic waste, waste batteries and other relevant complex end-of-life products 
+
+2016 onwards
+
+Sharing of best practice for the recovery of critical raw materials from mining waste  and landfills
+
+2017
+
+ 
+
+ 
+
+Construction and demolition
+
+Pre-demolition assessment guidelines for the construction sector
+
+2017
+
+ Voluntary industry-wide recycling protocol for construction and demolition waste
+
+2016
+
+Core indicators for the assessment of the lifecycle environmental performance of a building, and incentives for their use
+
+2017 onwards
+
+ 
+
+ 
+
+Biomass and bio-based materials
+
+Guidance and dissemination of best practice on the cascading use of biomass and support to innovation in this domain through Horizon 2020
+
+2018- 2019
+
+Ensuring coherence and synergies  with the circular economy when examining the sustainability of bioenergy under the Energy Union
+
+2016
+
+Assessment of the contribution of the 2012 Bioeconomy Strategy to the circular economy and possible review
+
+2016 
+
+ 
+
+ 
+
+Innovation and investments
+
+Initiative "Industry 2020 and the circular economy" under Horizon 2020 
+
+October 2015
+
+Pilot project for "innovation deals" to address possible regulatory obstacles for innovators 
+
+2016
+
+Targeted outreach to encourage applications for funding under EFSI, and support the development of projects and investment platforms relevant to the circular economy 
+
+2016 onwards
+
+Targeted outreach and communication activities to assist Member States and regions for the uptake of Cohesion Policy funds for the circular economy
+
+2016 onwards
+
+Support to Member States and regions to strengthen innovation for the circular economy through smart specialisation
+
+2016 onwards
+
+Assessment of the possibility of launching a platform together with the EIB and national banks to support the financing of the circular economy
+
+2016
+
+Engagement with stakeholders in the implementation of this action plan through existing fora in key sectors
+
+2016 onwards
+
+Support to a range of stakeholders through actions on public-private partnerships, cooperation platforms, support to voluntary business approaches, and exchanges of best practices
+
+2015 onwards
+
+Monitoring
+
+Development of a monitoring framework for the circular economy
+
+2017

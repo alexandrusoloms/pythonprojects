@@ -1,0 +1,2 @@
+http://ec.europa.eu/eurostat/web/waste
+http://ec.europa.eu/eurostat/web/waste/publications

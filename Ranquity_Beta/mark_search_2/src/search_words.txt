@@ -1,0 +1,3 @@
+
+YESWORDS: tonnes, millions, euros, dollars, %, percents, eur, usd, litres,  
+NOWORDS: date, dates, figure

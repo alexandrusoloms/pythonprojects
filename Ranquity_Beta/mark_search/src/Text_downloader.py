@@ -34,7 +34,7 @@ class Scrape_Page(object):
         time.sleep(value)
     
     @staticmethod
-    def _requesting(url, timeout = 10, parser = 'lxml'):
+    def _requesting(url, base_url, timeout = 10, parser = 'lxml'):
         '''
         Makes the request to the given url, escaopes after specified timeout.
         Returns BeautifulSoup object.
@@ -42,19 +42,23 @@ class Scrape_Page(object):
         :param timeout: timeout of the request
         :param parser: The parser used to create the soup object 
         '''
-        response = requests.get(url, timeout = timeout)
+        try:
+            response = requests.get(url, timeout = timeout)
+        except:
+            search_url = 'http://' + base_url + url
+            response = requests.get(search_url, timeout = timeout)
         html = response.content
         response.close()
         soup = BeautifulSoup(html, 'lxml')
         return(soup)
     
     @classmethod
-    def return_text(cls, url):
+    def return_text(cls, url, base_url):
         '''
         Returns the text part as one string from the page
         :param url: The page url to be scraped
         '''
-        soup = cls._requesting(url)
+        soup = cls._requesting(url, base_url)
         p_list = soup.findAll('p')
         whole_text = '{}\n'.format(url)
         for tag in p_list:
@@ -62,14 +66,14 @@ class Scrape_Page(object):
         return(whole_text)
     
     @classmethod
-    def return_links(cls, url, return_internal=True, only_from_tag = None):
+    def return_links(cls, url, base_url,  return_internal=True, only_from_tag = None):
         '''
         Returns the links in the give page.
         :param url: the page on which we are looking for links
         :param return_internal: return Links that are from the same mother domain?
         '''
         if only_from_tag != None:
-            soup = cls._requesting(url)
+            soup = cls._requesting(url, base_url)
             tags = soup.findAll(only_from_tag)
             link_list = []
             for tag in tags:
@@ -107,8 +111,11 @@ class Scrape_Page(object):
     def save_pages_text(cls, url, return_internal = False, project_name = None):
         '''
         Uses return_links to save the p tags of the html body
+        :param: return_internal if true, it returns also links that are pointing to the same page
+        :param: project_name is the name used for the folder
         '''
-        link_list = Scrape_Page.return_links(url, only_from_tag= 'p')
+        base_url = urlparse(url)[1]
+        link_list = Scrape_Page.return_links(url, base_url, only_from_tag= 'p', return_internal=return_internal)
         link_list = list(set(link_list))
         print('There are {} links to be scraped'.format(len(link_list)))
         if project_name!= None:
@@ -126,7 +133,7 @@ class Scrape_Page(object):
         print(len(link_list))
         for l in link_list:
             try:    
-                text = Scrape_Page.return_text(url=l)
+                text = Scrape_Page.return_text(url=l, base_url=base_url)
                 save_file = open(project_raw_data + '{}.txt'.format(len(os.listdir(project_raw_data))), 'w')
                 save_file.write('{}'.format(text))
                 save_file.close()

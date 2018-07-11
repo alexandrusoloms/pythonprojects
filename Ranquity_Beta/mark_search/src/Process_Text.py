@@ -1,104 +1,80 @@
-import sys
 import os
-
+from TextRank import TextRank
 import re
 import pandas as pd
 import nltk
+import sys
 
-from TextRank import TextRank # own packages at the end
-
-
-class RawText(object):
-    """
+class Raw_Text(object):
+    '''
     The class that will be used to perform all operations on the downloaded texts.
-    """
-
-    def __init__(self, file_name):
-      self.file_name = file_name
-
-
-    def _read_file(self):
-        """
-        :param file_name:  given filename after raw_data_path to be read.
-        :return: the url and the text that it found in the given file
-        """
-
-        file_to_read = open(raw_data_path + self.file_name, 'r')
+    '''
+    @staticmethod
+    def _read_file(file_name):
+        '''
+        :param: given filename after raw_data_path to be read.
+        Returns the url and the text that it found in the given file
+        '''
+        file_to_read = open(raw_data_path + file_name, 'r')
         raw_text = file_to_read.read()
         file_to_read.close()
         url = raw_text.split('\n')[0]
         text = str(raw_text.split('\n')[1:])
-        # tuples can not be overwritten
-        # see https://www.pythonlearn.com/html-008/cfbook011.html
-        return list((url, text))
-
-    def _get_text(self):
-        """
-        Just returns the text.
-        :param file_name: given filename from which text will be extracted.
-        :return:
-        """
-
-        text = self._read_file(self.file_name)[1]
-        return text
-
-    def _get_url(self):
-        """
+        return([url, text])
+    @staticmethod
+    def _get_text(cls, file_name):
+        '''
+        Just returns the text.        
+        :param: given filename from which text will be extracted.
+        '''
+        text = cls._read_file(file_name)[1]
+        return(text)
+    @staticmethod
+    def _get_url(cls, file_name):
+        '''
         Just returns url.
-
-        :param file_name:
-        :return:
-        """
-        url = self._read_file(self.file_name)[0]
-        return url
-
-    def print_text(self):
-        """
+        '''
+        url = cls._read_file(file_name)[0]
+        return(url)
+    @classmethod
+    def print_text(cls, file_name):
+        '''
         Uses read_file to print the text body of the input.
-        :param file_name: given filename after raw_data_path to be printed.
-        :return:
-        """
-
-        text = self._get_text(self.file_name)
+        :param: given filename after raw_data_path to be printed.
+        '''
+        text = cls._get_text(cls, file_name)
         print(text)
-
-    def print_url(self):
-        """
-
-        :param file_name: given filename from which url will be extracted.
-        :return:
-        """
-
-        url = self._get_url(self.file_name)
+    @classmethod
+    def print_url(cls, file_name):
+        '''
+        Uses read_file to print the url of the input.
+        :param: given filename from which url will be extracted.
+        '''
+        url = cls._get_url(cls, file_name)
         print(url)
-
-    def text_rank_sentences(self, no_jobs=5):
-        """
+        
+    @staticmethod
+    def text_rank_sentences(cls, file_name, no_jobs=5):
+        '''
         Uses Text_Rank.py to return the most important sentences.
-        :param file_name: given filename after raw_data_path to be read.
-        :param no_jobs: How many sentences to be returned (AS A LIST)
-
-        :return:
-        """
-
-        text = self._get_text(self.file_name)
+        :param: given filename after raw_data_path to be read.
+        :param no_jobs:  How many sentences to be returned (AS A LIST)
+        '''
+        text = cls._get_text(cls, file_name)
         sentences_list = TextRank.fit(text, n_jobs=no_jobs)
         return sentences_list
-
-    def print_ranked_sentences(self):
-        sentences_list = self.text_rank_sentences(self.file_name)
-        for id_sent, sentence in enumerate(sentences_list):
+    @classmethod
+    def print_ranked_sentences(cls, file_name):
+        sentences_list = cls.text_rank_sentences(cls, file_name)
+        for idsent, sentence in enumerate(sentences_list):
             sentence = sentence.replace(u'\xa0', u' ')
-            print('{}:  {}'.format(id_sent + 1, sentence))
-
-    def get_sentences_with_numbers(self):
-        """
-        Returns sentences that have numbers in it.
-        :param file_name: given filename after raw_data_path to be read.
-        :return:
-        """
-
-        text = self._get_text(self.file_name)
+            print('{}:  {}'.format(idsent + 1, sentence))
+    @classmethod
+    def get_sentences_with_numbers(cls, file_name):
+        '''
+        Returns sentences that have numbers in it. 
+        '''
+        text = cls._get_text(cls, file_name)
         sentences_with_numbers = []
         for sent in nltk.sent_tokenize(text):
                 if bool(re.search(r'\d', sent)):
@@ -106,39 +82,29 @@ class RawText(object):
                     sentences_with_numbers.append(sent)
 
         return sentences_with_numbers
-
-    def get_number_and_keyword_sentences(self, keyword_list_1, keyword_list_2=None):
-        """
+    @classmethod
+    def get_number_and_keyword_sentences(cls, file_name, keyword_list_1, keyword_list_2 = None):
+        
+        print(file_name)
+        
+        '''
         Returns all sentences that have numbers in them AND include some specified keywords.
-        :param file_name:
-        :param keyword_list_1: The ultimate keyword list.
-        :param keyword_list_2: The topic-specific keyword list.
-        :return:
-        """
-        print(self.file_name)
-
-        # # NOTE: why is keyword_list_2 not used anywhere?
-        number_sentences = self.get_sentences_with_numbers(self.file_name)
+        :param keyword_list_1:  The ultimate keyword list.
+        :param keyword_list_2:  The topic-specific keyword list.
+        '''
+        number_sentences = cls.get_sentences_with_numbers(file_name)
         return_list = []
         for sentence in number_sentences:
             if any(word in sentence.lower() for word in keyword_list_1):
                 return_list.append(sentence)
-            elif any(word in sentence.lower() for word in keyword_list_2):
-                return_list.append(sentence)
             else:
                 pass
         return return_list
-
     @staticmethod
-    def loop_through_sentences(sentences_list, url):
-        """
+    def loop_through_sentences(cls, sentences_list, url, file_name):
+        '''
         The interface shown for each sentence
-        :param sentences_list:
-        :param url:
-        :param file_name:
-        :return:
-        """
-
+        '''
         help_string = '''
         This is the help message.
         Press 'y' to add sentence to the saved sentences.
@@ -146,7 +112,6 @@ class RawText(object):
         Press 'h' for help message
         Press 'q' to quit()
         '''
-
         yes_sentences = []
         for sentence in sentences_list:
             if sentence not in list(pd.read_csv(project_folder + 'urls_and_sentences.csv')['sentence']):
@@ -155,12 +120,12 @@ class RawText(object):
                 if answer == 'y':
                     yes_sentences.append(sentence)
                     try:
-                        sub_df = pd.read_csv(project_folder + 'urls_and_sentences.csv')
-                    except Exception:
-                        sub_df = pd.DataFrame(columns=['url', 'sentence'])
-                    sub_df.loc[len(sub_df)] = [url, sentence]
+                        df = pd.read_csv(project_folder + 'urls_and_sentences.csv')
+                    except:
+                        df = pd.DataFrame(columns=['url', 'sentence'])
+                    df.loc[len(df)] = [url, sentence]
 
-                    sub_df.to_csv(project_folder + 'urls_and_sentences.csv', index=False)
+                    df.to_csv(project_folder + 'urls_and_sentences.csv', index=False)
                     print('Sentence added')
                 elif answer == 'n':
                     pass
@@ -173,78 +138,63 @@ class RawText(object):
                         sys.exit(0)
                     else:
                         pass
-
+                    
             else:
                 pass
         done_file = open(project_folder + 'done_links.txt', 'a')
         done_file.write('{}\n'.format(url))
-        print('You are done with {}'.format(self.file_name))
-
-    def interface(self, numbered_sentences=True, text_ranked=True, numbered_and_keywords=False):
-        """
+        print('You are done with {}'.format(file_name))
+        
+    @classmethod
+    def interface(cls, file_name, numbered_senteces = True, text_ranked = True, numbered_and_keywords = False):
+        '''
         Takes the file and shows the user one by one, to decide if they are important
-        :param file_name:
-        :param numbered_sentences:
-        :param text_ranked:
-        :param numbered_and_keywords:
-        :return:
-        """
-
-        ultimate_keyword_list = [
-            'thousand',
-            'thousands',
-            'hundred',
-            'hundreds',
-            'millions',
-            'million',
-            'euro ',
-            'dollar',
-            'user',
-            'users',
-            'tonnes',
-            'tonne',
-            'liter',
-            'litre',
-            'liters',
-            'downloads',
-            'likes',
-            'eur',
-            'usd'
+        '''
+        min_len_sentence = 20
+        
+        ultimate_keyword_list = ['thousand', 'thousands', 'hundred', 'hundreds', 'millions', 'million', 'euro ', 'dollar', 'user', 'users', 'tonnes', 'tonne', 'liter', 'litre', 'liters', 'downloads', 'likes', 'eur', 'usd'
         ]
-
+        
+        #Appending all sentences to snetences_list
         sentences_list = []
-        # All sentences from the Text_Rank
-        if text_ranked:  # this evaluates as True
-            for sentence in self.text_rank_sentences(self.file_name):
-                sentences_list.append(sentence)
+        #All sentences from the Text_Rank
+        if text_ranked == True:
+            for sentence in cls.text_rank_sentences(cls, file_name):
+                if len(sentence) > min_len_sentence:
+                    sentences_list.append(sentence)
+                else:
+                    pass
         else:
             pass
-        # All sentences that have some numbers in them
-        if numbered_sentences:
-            for sentence in self.get_sentences_with_numbers(self.file_name):
-                sentences_list.append(sentence)
+        #All sentences that have some numbers in them
+        if numbered_senteces == True:
+            for sentence in cls.get_sentences_with_numbers(file_name):
+                if len(sentence) > min_len_sentence:
+                    sentences_list.append(sentence)
+                else:
+                    pass
         else:
             pass
         #
-        if numbered_and_keywords:
-            for sentence in self.get_number_and_keyword_sentences(
-                    file_name=self.file_name, keyword_list_1=ultimate_keyword_list , keyword_list_2=None):
-                sentences_list.append(sentence)
-
+        if numbered_and_keywords == True:
+            for sentence in cls.get_number_and_keyword_sentences(file_name = file_name, keyword_list_1= ultimate_keyword_list , keyword_list_2 = None):
+                if len(sentence) > min_len_sentence:
+                    sentences_list.append(sentence)
+                else:
+                    pass
         print('There are {} sentences'.format(len(sentences_list)))
-        url = self._get_url(self.file_name)
+        url = cls._get_url(cls, file_name)
         done_list_file = open(project_folder + 'done_links.txt', 'r')
         done_url_list = done_list_file.read().split('\n')
         done_list_file.close()
-
         if url not in done_url_list:
-            if os.path.exists(processed_data_path + self.file_name):
+            if os.path.exists(processed_data_path + file_name):
                 print('This file has already been processed.')
             answer = None
             while answer not in ['Start', 'quit']:
                 answer = input('What now? ')
                 if answer == 'Start':
-                    self.loop_through_sentences(sentences_list, url, self.file_name)
+                    cls.loop_through_sentences(cls, sentences_list, url, file_name)
                 elif answer == 'quit':
                     sys.exit('You have decided to quit.')
                 else:
@@ -253,30 +203,30 @@ class RawText(object):
             print('Seems like this page has been processed before.')
 
 
-"""
+
+'''
 Asking for project name, and creating folders:
 project folder
-"""
-
+'''
 project_name = input('Project name:')
 output_path = os.path.join(os.path.dirname('__file__'), '..', ) + '/output/'
 try:
     project_folder = os.path.join(os.path.dirname('__file__'), '..', ) + '/output/{}/'.format(project_name)
 except:
-    sys.exit('Please run Text_downloader.py first')
-
-    '''
+    quit('Please Run Text_downloader.py first')
+    '''    
 except:
     os.makedirs(output_path + '/{}/'.format(project_name))
     project_folder = os.path.join(os.path.dirname('__file__'), '..', ) + '/output/{}/'.format(project_name)
-    '''
+'''
 if os.path.exists(project_folder + '/raw_data/'):
     raw_data_path = project_folder + '/raw_data/'
 else:
     print('raw_data folder does not exist, run Text_downloader.py, to create one!' )
+    sys.exit(0)
 if os.path.exists(project_folder + '/processed_data/'):
     pass
-else:
+else: 
     os.makedirs(project_folder + '/processed_data/')
 processed_data_path = project_folder + '/processed_data/'
 
@@ -314,8 +264,4 @@ if do_num_and_key == 'y':
     do_num_and_key = True
 else:
     do_num_and_key = False
-
-
-X = RawText(file_name=input_file_name)
-
-interface(, numbered_sentences=do_numbered, text_ranked=do_text_rank, numbered_and_keywords=do_num_and_key)
+Raw_Text.interface(file_name=input_file_name, numbered_senteces=do_numbered, text_ranked=do_text_rank, numbered_and_keywords=do_num_and_key)

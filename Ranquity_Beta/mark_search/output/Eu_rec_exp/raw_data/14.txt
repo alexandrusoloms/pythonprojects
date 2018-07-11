@@ -1,0 +1,34 @@
+/eurostat/statistics-explained/index.php?title=Extra-EU_trade_in_goods
+
+Data from March 2018. 
+Planned update: March 2019.
+In 2017 EU imports grew slightly more than exports and consequently the trade surplus fell from EUR 32 billion to EUR 23 billion.
+The main destination for EU exports in 2017 was Asia with about one third of the total, followed by North America (27 %) and other European countries (23 %).
+
+
+International trade - especially the size and evolution of imports and exports - is an important indicator of the performance of the European Union (EU) economy, showing how it interacts with other countries and its position. 
+This article takes a close look at recent trends in imports and exports, focusing on extra-EU trade, the main trading partners, and the most traded products. 
+This article is part of an online publication providing recent statistics on international trade in goods, covering information on the EU's main partners, main products traded, specific characteristics of trade as well as background information.
+
+
+
+European Union trade in goods recovered in both imports and exports after the rapid decline in 2009, following the financial turmoil at the end of 2008 (see Figure 1). However, between 2012 and 2016 imports fell, while exports grew.  As a result, since 2013 the EU trade balance has been positive, while between the beginning of the series in 2002 and 2012 it was negative. In 2017 imports grew slightly more than exports and consequently the trade surplus fell from EUR 32 billion to EUR 23 billion.
+In 2017 about 44 % of EU imports came from Asian countries while the other European countries accounted for 23 % and North America for 20 % (see Figure 2). The main destination for EU exports in 2017 was Asia with about one third of the total, followed by North America (27 %) and other European countries (23 %). The EU has a considerable deficit in trade with Asian countries, while the largest surplus is recorded in trade with North America.
+
+
+The USA has traditionally been the EU’s major trading partner in particular in exports (see Figure 3). Although its relative significance declined between 2008 (19 % of total extra-EU exports) and 2013 (17 %) it increased again until 2016 (21 %) before dropping slightly in 2017 (20 %). Between 2008 and 2015 exports to China more than doubled. Consequently it overtook Switzerland as second largest export destination in 2014. 
+The EU's main partner for imports is China (see Figure 4). Its share has increased from 16 % of total extra-EU imports in 2008 to 20 % in 2017.  Imports from the United States fell between 2009 and 2011 but then started growing, peaking at 15 % in 2016 before dropping to 14 % in 2017. Imports from Russia fluctuate due to the price of energy products. From 2011 to 2013 (12 %) they were slightly higher than imports from the United States but they fell to 7 % in 2016 before growing slightly to 8 % in 2017.
+The EU trade surplus with the USA grew from EUR 65 billion in 2008 to a record height of EUR 122 billion in 2015, it dropped to EUR 113 billion in 2016 but increased again to EUR 120 billion in 2017 (see Figure 5). The EU also has trade surpluses with Switzerland and Turkey which in 2017 were EUR 40 billion  and EUR 15 billion respectively. With Russia the EU has a trade deficit (EUR 59 billion in 2017) mainly due to the imports of energy products. The trade deficit with China was EUR 176 billion in 2017, largely due to trade surpluses for manufactured goods. 
+
+The EU exports mainly manufactured products: from 2008 to 2017 their share remained 83 % of total EU exports (see Figure 6). In 2017 machinery and vehicles made up 42 % of the total exports while other manufactured goods accounted for 23 % and chemical products for 18 %. Primary products account for 13 % of total exports. This category is made up of food and drink (6 %), energy products (5 %) and raw materials (3 %).
+The majority of EU imports are also manufactured goods (see Figure 7). Their share in total EU imports increased from 58 % in 2008 to 68 % in 2017. The breakdown diverges from exports: machinery and vehicles (32 %) and chemical products (10 %) have smaller shares while the share of other manufactured goods (26 %) is similar to that for exports. The share of energy in imports has significantly decreased in recent years. In 2008 it accounted for 29 % of imports, while in 2017 the share had fallen to 18 %. This decrease is closely related to the fall of the oil price in this period.
+
+EU data come from Eurostat’s COMEXT database. COMEXT is the Eurostat reference database for international trade. It provides access not only to both recent and historical data from the EU Member States but also to statistics of a significant number of third countries. International trade aggregated and detailed statistics disseminated from Eurostat are compiled from monthly COMEXT data. Because COMEXT is updated on a daily basis, data published on the website may differ from data stored in COMEXT in case of recent revisions. 
+EU data are compiled according to community guidelines and may, therefore, differ from national data published by Member States. Statistics on extra-EU trade are calculated as the sum of trade of each of the 28 Member States with countries outside the EU. In other words, the EU is considered as a single trading entity and trade flows are measured into and out of the area, but not among EU Member States.
+Unit of measure
+Trade values are expressed in billions (109) of euros. They correspond to the statistical value, i.e. to the amount which would be invoiced in case of sale or purchase at the national border of the reporting country. It is called a FOB value (free on board) for exports and a CIF value (cost, insurance, freight) for imports.
+Europe is the world's largest exporter of manufactured goods and services, and is itself the biggest export market for around 80 countries. Trade is an important indicator of Europe's prosperity and place in the world, and the bloc has become deeply integrated into global markets both for the products it sources and the exports it sells. 
+Because the 28 Member States of the European Union share a single market and a single external border, they also have a single trade policy. Both in the World Trade Organization, where the rules of international trade are agreed and enforced, and with individual trading partners, EU Member States speak and negotiate collectively.
+
+
+
